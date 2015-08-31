@@ -1,0 +1,28 @@
+1 /home/shaneel/hw/hw1/hw1: Not a known UNIX command
+2 /home/shaneel/hw/hw1/hw1: Not a known UNIX command
+3 /home/shaneel/hw/hw1/hw1: 1 /home/shaneel/hw/hw1/hw1: Not a known UNIX command
+2 /home/shaneel/hw/hw1/hw1: Not a known UNIX command
+3 /home/shaneel/hw/hw1/hw1: Not a known UNIX command
+4 /home/shaneel/hw/hw1/hw1: 1 /home/shaneel/hw/hw1/hw1: Makefile
+io.c
+io.h
+io.o
+main.c
+main.o
+parse.c
+parse.h
+parse.o
+process.c
+process.h
+process.o
+sample.txt
+sample.txt
+
+shell
+shell.c
+shell.h
+shell.o
+2 /home/shaneel/hw/hw1/hw1: 1 /home/shaneel/hw/hw1/hw1: Not a known UNIX command
+2 /home/shaneel/hw/hw1/hw1: Not a known UNIX command
+3 /home/shaneel/hw/hw1/hw1: Not a known UNIX command
+4 /home/shaneel/hw/hw1/hw1: 

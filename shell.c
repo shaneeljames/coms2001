@@ -61,7 +61,7 @@ int cmd_chOut(tok_t arg[]){
 	char* path=malloc(INPUT_STRING_SIZE) ;
 	fprintf(stdout,"Enter file path: ");
 	path=freadln(stdin);
-	/*
+	
 	FILE* file=fopen(path,"a+");
 	if(file!=NULL){
 			
@@ -70,7 +70,7 @@ int cmd_chOut(tok_t arg[]){
 		fclose(file);
 	
 	}
-	else*/
+	else
 		fprintf(stdout,"Failed\n");
  
 }
